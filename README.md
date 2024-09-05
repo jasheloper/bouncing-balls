@@ -3,6 +3,8 @@
 ## Demo
 https://jasheloper.github.io/bouncing-balls/
 
+![bouncing balls - Jashele T. on GitHub](https://raw.githubusercontent.com/jasheloper/bouncing-balls/main/bouncing-balls.png)
+
 ### About
 To get some practice with using objects and object-oriented techniques in a real-world context.
 
